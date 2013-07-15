@@ -12,5 +12,6 @@
   "background": {
     "page": "background.html"
   },
-  "permissions": ["background"]
+  "permissions": ["background", "pushMessaging", "notifications"],
+  "web_accessible_resources": ["img/icon48.png"],
 }
